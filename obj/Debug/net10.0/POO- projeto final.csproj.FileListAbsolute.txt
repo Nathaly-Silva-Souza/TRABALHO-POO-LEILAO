@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\POO- projeto final\bin\Debug\net10.0\POO- projeto final.exe
+C:\Users\User\Desktop\POO- projeto final\bin\Debug\net10.0\POO- projeto final.deps.json
+C:\Users\User\Desktop\POO- projeto final\bin\Debug\net10.0\POO- projeto final.runtimeconfig.json
+C:\Users\User\Desktop\POO- projeto final\bin\Debug\net10.0\POO- projeto final.dll
+C:\Users\User\Desktop\POO- projeto final\bin\Debug\net10.0\POO- projeto final.pdb
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.AssemblyInfo.cs
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.dll
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\refint\POO- projeto final.dll
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.pdb
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\POO- projeto final.genruntimeconfig.cache
+C:\Users\User\Desktop\POO- projeto final\obj\Debug\net10.0\ref\POO- projeto final.dll
