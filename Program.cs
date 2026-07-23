@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SimuladorLeilao.Controllers;
+using SimuladorLeilao.Utils;
 
 namespace SimuladorLeilao
 {
@@ -6,15 +7,14 @@ namespace SimuladorLeilao
     {
         static void Main(string[] args)
         {
-            // Instanciação dos objetos
-            ViewLeilao view = new ViewLeilao();
-            IPilha pilhaNavegacao = new PilhaNavegacao();
+            // 1. Inicia os dados e contexto central
+            ContextoSistema contexto = new ContextoSistema();
 
-            // O Controlador centraliza o fluxo e liga o Model com a View
-            ControllerLeilao controlador = new ControllerLeilao(view, pilhaNavegacao);
-
-            // Inicia o loop principal do terminal
-            controlador.Run();
+            // 2. O Controlador Principal assume o comando
+            MainController app = new MainController(contexto);
+            
+            // 3. Executa a lógica
+            app.Run();
         }
     }
 }
